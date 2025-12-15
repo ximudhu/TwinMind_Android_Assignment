@@ -1,7 +1,7 @@
 # TwinMind Android Assignment
 
 
-## 🚨 Demo Video: [**Click here to watch the App Walkthrough**](https://drive.google.com/drive/my-drive)
+## 🚨 Demo Video: [**Click here to watch the App Walkthrough**](https://drive.google.com/file/d/1XS7plpV-JLK4H0FZX7zaEjeKz1ARApAQ/)
 
 This is a submission for the TwinMind Android Developer assignment, implementing a voice recording and summarization app using Jetpack Compose and Modern Android Architecture.
 
