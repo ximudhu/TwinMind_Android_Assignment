@@ -1,5 +1,8 @@
 # TwinMind Android Assignment
 
+
+## 🚨 Demo Video: [**Click here to watch the App Walkthrough**](https://drive.google.com/drive/my-drive)
+
 This is a submission for the TwinMind Android Developer assignment, implementing a voice recording and summarization app using Jetpack Compose and Modern Android Architecture.
 
 ## Tech Stack
@@ -35,7 +38,3 @@ Due to the 48-hour time limit, I made the following decisions:
 * **Single File Recording:** I implemented continuous recording into a single file instead of 30-second chunks to ensure playback stability for this MVP.
 * **Edge Cases:** I focused on the main recording flow and the "Low Storage" check. Complex handling for phone call interruptions and process death was omitted to prioritize code stability.
 * **WebM Format:** The demo video is recorded using the Android Emulator (WebM format).
-
-## Demo
-
-Please refer to the attached video for a walkthrough of the app's functionality.
